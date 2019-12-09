@@ -1,0 +1,1 @@
+C:\Anaconda3\envs\py35\Scripts\pyuic5.exe GUI_MODE_1.ui -o GUI_MODE_1.py

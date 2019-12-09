@@ -1,0 +1,1 @@
+C:\Anaconda3\envs\py35\Scripts\pyinstaller.exe --upx-dir C:\upx pyisp.spec

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Nu_ISP_Tool", "Nu_ISP_Tool\Nu_ISP_Tool.pyproj", "{F7F354A7-05DB-4EAB-9745-2B32398F68A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F9FC958-4FBB-4F4F-BF28-538BB0B8889C}"
+	ProjectSection(SolutionItems) = preProject
+		Nu_ISP_Tool\GUI_MODE_1.py = Nu_ISP_Tool\GUI_MODE_1.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F354A7-05DB-4EAB-9745-2B32398F68A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F354A7-05DB-4EAB-9745-2B32398F68A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
